@@ -98,7 +98,7 @@ stack: React · Node.js · LLM APIs
 - ⚡ Auto-extracts players & strategies
 - 📊 Visualizes **Nash Equilibrium**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/game-prompt)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://game-prompt-gb33.vercel.app/)
 
 </td>
@@ -114,7 +114,7 @@ stack: MERN · MediaPipe · OpenRouter
 - 👁️ Cheating detection via **face tracking**
 - 📝 **LLM-powered** Q&A evaluation
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/INTERVIEW_GPT)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://interview-gpt-tau.vercel.app/)
 
 </td>
@@ -132,7 +132,7 @@ stack: React · Tailwind CSS · Vercel
 - ✨ Optimized **UI/UX**
 - 🚀 Deployed on **Vercel**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper/Portfolio)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kartikcodes-six.vercel.app/)
 
 </td>
@@ -197,55 +197,6 @@ status: [ ████████░░ ] 80% done
 ![Profile Views](https://komarev.com/ghpvc/?username=An-Orchids-whishper&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
-
----
-
-<details>
-<summary>🐍 <b>Click here — Setup Snake Animation (one-time, 2 mins)</b></summary>
-
-<br>
-
-**Step 1:** Go to your profile repo → **Settings** → **Actions** → **General** → set Workflow permissions to ✅ **Read and write permissions** → Save
-
-**Step 2:** In your repo, create this file: `.github/workflows/snake.yml`
-
-```yaml
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions** tab → click the workflow → **Run workflow** → done! 🎉
-
-</details>
 
 ---
 
