@@ -12,9 +12,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/An-Orchids-whishper/An-Orchids-whishper/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -38,6 +38,7 @@ const kartik = {
   dsaGrind    : "300+ problems solved 💪",
   currentlyOn : ["Building AI-powered apps", "Learning System Design"],
   funFact     : "I debug code AND write drama scripts 🎭",
+  portfolio   : "https://kartikcodes-six.vercel.app/",
   contact     : "kartikpal96501@gmail.com",
 };
 ```
@@ -97,8 +98,8 @@ stack: React · Node.js · LLM APIs
 - ⚡ Auto-extracts players & strategies
 - 📊 Visualizes **Nash Equilibrium**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://game-prompt-gb33.vercel.app/)
 
 </td>
 <td width="50%">
@@ -113,8 +114,8 @@ stack: MERN · MediaPipe · OpenRouter
 - 👁️ Cheating detection via **face tracking**
 - 📝 **LLM-powered** Q&A evaluation
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://interview-gpt-tau.vercel.app/)
 
 </td>
 </tr>
@@ -131,8 +132,8 @@ stack: React · Tailwind CSS · Vercel
 - ✨ Optimized **UI/UX**
 - 🚀 Deployed on **Vercel**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/An-Orchids-whishper)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kartikcodes-six.vercel.app/)
 
 </td>
 <td width="50%">
@@ -146,7 +147,7 @@ status: [ ████████░░ ] 80% done
 - 🛠️ Currently in development
 - 🤫 Stay tuned...
 
-[![Follow](https://img.shields.io/badge/Follow_for_updates-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Follow](https://img.shields.io/badge/Follow_for_updates-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/An-Orchids-whishper)
 
 </td>
 </tr>
@@ -158,14 +159,14 @@ status: [ ████████░░ ] 80% done
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An-Orchids-whishper&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Orchids-whishper&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=An-Orchids-whishper&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -188,19 +189,19 @@ status: [ ████████░░ ] 80% done
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pal-76b8a31ab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikcodes-six.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpal96501@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/An-Orchids-whishper)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=An-Orchids-whishper&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
 <details>
-<summary>🐍 <b>Click here — Setup Snake Animation (one-time)</b></summary>
+<summary>🐍 <b>Click here — Setup Snake Animation (one-time, 2 mins)</b></summary>
 
 <br>
 
@@ -242,9 +243,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 3:** Go to **Actions** tab → click the workflow → **Run workflow** manually once → done! 🎉
-
-Then replace `YOUR_GITHUB_USERNAME` in the snake image URLs at the top of this README with your actual username.
+**Step 3:** Go to **Actions** tab → click the workflow → **Run workflow** → done! 🎉
 
 </details>
 
