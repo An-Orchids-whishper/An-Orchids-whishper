@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpal96501@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=An-Orchids-whisper&color=6E40C9&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=an-orchids-whishper&color=6E40C9&style=flat-square)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 [GamePrompt – AI Powered Game Theory Visualizer](https://github.com/An-Orchids-whisper)
+### 🎮 [GamePrompt – AI Powered Game Theory Visualizer](https://github.com/an-orchids-whishper)
 > React.js · Node.js · LLM Integration
 
 - Converts natural language scenarios into **game theory payoff matrices** using LLMs
@@ -64,7 +64,7 @@
 
 ---
 
-### 🤖 [Prep AI – AI Interview Platform](https://github.com/An-Orchids-whisper)
+### 🤖 [Prep AI – AI Interview Platform](https://github.com/an-orchids-whishper)
 > React.js · Node.js · MongoDB · MediaPipe
 
 - Full-stack AI mock interview platform with **resume-based question generation**
@@ -74,7 +74,7 @@
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://github.com/An-Orchids-whisper)
+### 🌐 [Personal Portfolio Website](https://github.com/an-orchids-whishper)
 > React · Tailwind CSS · Vercel
 
 - Fully responsive portfolio with optimized UI/UX, deployed on **Vercel**
@@ -86,13 +86,13 @@
 
 <div align="center">
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=An-Orchids-whisper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=an-orchids-whishper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=An-Orchids-whisper&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=an-orchids-whishper&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=An-Orchids-whisper&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=an-orchids-whishper&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=An-Orchids-whisper&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=an-orchids-whishper&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
