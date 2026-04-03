@@ -1,115 +1,259 @@
+<!--
+███████████████████████████████████████████████████
+█▄─█▀▀▀█─▄█▄─▄███▄─▄▄─█▄─▄▄─█▄─▄███▄─▄▄─█▄─▀█▀─▄█
+██─█─█─█─███─██▀██─▄█▀██─▄████─██▀██─▄█▀██─█▄█─██
+▀▀▄▄▄▀▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▀▄▄▄▀
+-->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kartik+Pal+👋;Full+Stack+Developer;AI+%26+ML+Enthusiast;IIIT+Gwalior+%7C+B.Tech+%2B+M.Tech+IT)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Kartik%20Pal&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&fontColor=a78bfa&stroke=6d28d9&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20IIIT%20Gwalior&descSize=16&descAlignY=75&descColor=c4b5fd" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikpal.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpal)
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=console.log("Hello+World+%F0%9F%91%8B");+//+Kartik+Pal;Building+things+that+think+%F0%9F%A7%A0;MERN+%7C+Spring+Boot+%7C+LLM+APIs;98.89+Percentile+%E2%9A%A1+JEE+2023;300%2B+DSA+problems+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```typescript
+const kartik = {
+  name        : "Kartik Pal",
+  college     : "IIIT Gwalior — B.Tech + M.Tech IT (2023–2028)",
+  location    : "Gwalior, MP 🇮🇳",
+  jeeRank     : "98.89 Percentile 🚀",
+  dsaGrind    : "300+ problems solved 💪",
+  currentlyOn : ["Building AI-powered apps", "Learning System Design"],
+  funFact     : "I debug code AND write drama scripts 🎭",
+  contact     : "kartikpal96501@gmail.com",
+};
+```
+
+---
+
+## `$ ls ./skills`
+
+<div align="center">
+
+### ⚡ Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511fa.svg?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 GamePrompt
+> **AI Game Theory Visualizer**
+
+```bash
+stack: React · Node.js · LLM APIs
+```
+- 🧠 Natural language → **Payoff matrices**
+- ⚡ Auto-extracts players & strategies
+- 📊 Visualizes **Nash Equilibrium**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 🤖 Prep AI
+> **AI Interview Platform**
+
+```bash
+stack: MERN · MediaPipe · OpenRouter
+```
+- 🎤 Real-time **voice interviews**
+- 👁️ Cheating detection via **face tracking**
+- 📝 **LLM-powered** Q&A evaluation
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Website
+> **Personal Dev Portfolio**
+
+```bash
+stack: React · Tailwind CSS · Vercel
+```
+- 📱 Fully **responsive** design
+- ✨ Optimized **UI/UX**
+- 🚀 Deployed on **Vercel**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 🔜 Next Project
+> **Something cooking...**
+
+```
+status: [ ████████░░ ] 80% done
+```
+- 🛠️ Currently in development
+- 🤫 Stay tuned...
+
+[![Follow](https://img.shields.io/badge/Follow_for_updates-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ top --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `$ ./achievements.sh`
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🏆  98.89 Percentile — JEE Mains 2023 (Top 1.11%)      ║
+║  💻  300+ DSA Problems solved across CP platforms        ║
+║  📣  Content Head — Inter IIIT Sports 2025               ║
+║  🎭  Active member — Dramatics Club, IIIT Gwalior        ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `$ ping --me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikpal96501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-![Profile Views](https://komarev.com/ghpvc/?username=an-orchids-whishper&color=6E40C9&style=flat-square)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Pursuing **B.Tech + M.Tech (Integrated 5-year)** in Information Technology at **IIIT Gwalior** (2023–2028)
-- 🚀 Building full-stack apps with a love for **AI/ML integration**
-- 🧠 Solved **300+ DSA problems** across competitive programming platforms
-- 🏆 Secured **98.89 Percentile in JEE Mains 2023** among 1M+ candidates
-- 🎭 Drama enthusiast — scriptwriting, acting & cultural events
-- 📫 Reach me at **kartikpal96501@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 [GamePrompt – AI Powered Game Theory Visualizer](https://github.com/an-orchids-whishper)
-> React.js · Node.js · LLM Integration
-
-- Converts natural language scenarios into **game theory payoff matrices** using LLMs
-- Automatically extracts players, strategies & payoffs from real-world descriptions
-- Computes and visualizes **Nash Equilibrium** for strategic interaction analysis
-
----
-
-### 🤖 [Prep AI – AI Interview Platform](https://github.com/an-orchids-whishper)
-> React.js · Node.js · MongoDB · MediaPipe
-
-- Full-stack AI mock interview platform with **resume-based question generation**
-- Real-time voice interviews with **speech-to-text & text-to-speech**
-- Built-in **cheating detection** using MediaPipe Face Detection + tab monitoring
-- Powered by **OpenRouter LLM APIs** for intelligent evaluation
-
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/an-orchids-whishper)
-> React · Tailwind CSS · Vercel
-
-- Fully responsive portfolio with optimized UI/UX, deployed on **Vercel**
-- Showcases projects, resume & contact form
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=an-orchids-whishper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=an-orchids-whishper&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=an-orchids-whishper&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=an-orchids-whishper&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+<details>
+<summary>🐍 <b>Click here — Setup Snake Animation (one-time)</b></summary>
 
-- 🥇 **98.89 Percentile** in JEE Mains 2023 (Top 1.11% among 1M+ candidates)
-- 💻 **300+ DSA problems** solved on competitive programming platforms
-- 📣 **Content Head** — Inter IIIT Sports 2025
+<br>
+
+**Step 1:** Go to your profile repo → **Settings** → **Actions** → **General** → set Workflow permissions to ✅ **Read and write permissions** → Save
+
+**Step 2:** In your repo, create this file: `.github/workflows/snake.yml`
+
+```yaml
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions** tab → click the workflow → **Run workflow** manually once → done! 🎉
+
+Then replace `YOUR_GITHUB_USERNAME` in the snake image URLs at the top of this README with your actual username.
+
+</details>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:a78bfa&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-⭐️ If you like what you see, consider starring some repos!
+*`> exit 0  //  thanks for visiting :)`*
 
 </div>
